@@ -1,4 +1,4 @@
-# msPython
+# Microservice em Python
 
 Um micro serviço feito em Python com Flask que devolve o valor modular de um número.
 
